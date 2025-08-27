@@ -12,7 +12,7 @@
  */
 
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
-
+importScripts("https://progressier.app/rd7w7Y6ta0HdrRxtaweZ/sw.js" );
 importScripts(
   "/jesusreyes/precache-manifest.42421ab2fc166622c5f78c4b5c5927c4.js"
 );
